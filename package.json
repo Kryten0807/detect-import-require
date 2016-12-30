@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "acorn": "^3.2.0",
-    "ast-types": "^0.8.16",
+    "ast-types": "^0.9.3",
     "defined": "^1.0.0",
     "escodegen": "^1.7.0",
     "is-buffer": "^1.1.3"
